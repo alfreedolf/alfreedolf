@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alfreedolf
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in machine learning and data science applications
+- 🌱 I’m currently learning a few things... Just ask if you need.
 - 💞️ I’m looking to collaborate on machine learning and data science python-based projects
-- 📫 How to reach me ...
+- 📫 You can write me here. There are few ways to do this...
 
 <!---
 alfreedolf/alfreedolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
