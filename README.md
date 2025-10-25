@@ -1,20 +1,13 @@
 # 👋 Hi, welcome to my GitHub profile
 
 ## 📖 About Me
-- 🖥 AI-Driven Software & Systems Engineer  
-- 💼 10+ years in software (aviation safety-critical, smart manufacturing)  
-- 🎓 M.Sc. Computer Science, University of Catania (2011) 
-- 🌐 Feel free to browse my [repos](https://github.com/alfreedolf?tab=repositories)
-
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-FF6F00?logo=pytorch)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+- 🖥 Computer Scientist to imagine. Coder to understand. Software Engineer to create.  
+- 🌐 Feel free to browse my [repositories](https://github.com/alfreedolf?tab=repositories).
 
 ## ⬆ What I’m Up To
-- 🌱 Exploring federated learning & safety-critical ML workflows  
-- 💞️ Seeking collaborations on Python-based ML/Data Science projects
+- 🌱 Exploring AI and emerging technologies, focusing on robustness and cleanliness in code and software architecture.  
+- 💞️ Open to collaborations on Python-based ML and Data Science projects.
+
 
 
 <!---
