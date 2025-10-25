@@ -6,7 +6,7 @@
 
 ## ⬆ What I’m Up To
 - 🌱 Exploring AI and emerging technologies, focusing on robustness and cleanliness in code and software architecture.  
-- 💞️ Open to collaborations on Python-based ML and Data Science projects.
+- 💞️ Open to collaborations on Python-based AI and Machine Learning projects.
 
 
 
