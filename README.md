@@ -4,7 +4,7 @@
 - 🖥 AI-Driven Software & Systems Engineer  
 - 💼 10+ years in software (aviation safety-critical, smart manufacturing)  
 - 🎓 M.Sc. Computer Science, University of Catania (2011) 
-- 🌐 Feel free to browse my [projects](https://github.com/alfreedolf)
+- 🌐 Feel free to browse my [repos](https://github.com/alfreedolf?tab=repositories)
 
 
 ## 🛠️ Tech Stack
